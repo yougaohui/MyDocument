@@ -7,10 +7,16 @@ USING_MANUAL/
 ├── README.md                 # 完整使用手册
 ├── QUICK_START.md           # 5分钟快速上手
 ├── ADVANCED_FEATURES.md    # 高级功能详解
-├── CONFIG_EXAMPLES/        # 配置示例
-│   ├── BASIC_CONFIG.md       # 基础配置
-│   ├── DEVELOPER_CONFIG.md    # 开发者配置
-│   └── PRODUCTION_CONFIG.md # 生产环境配置
+├── FULLSTACK_LEARNING_PLAN.md  # 全栈开发学习计划
+├── LEARNING_PHASES/         # 学习阶段详细指南
+│   ├── phase-1-basics.md     # Phase 1: 基础搭建
+│   ├── phase-2-hybrid-project.md  # Phase 2: 混合项目实践
+│   ├── phase-3-fullstack-project.md  # Phase 3: 全栈项目实战
+│   └── phase-4-advanced.md   # Phase 4: 高级技能和优化
+├── PRACTICE_PROJECTS/       # 实践项目
+│   ├── fitpro-extension.md   # FitPro2 Web 管理后台
+│   ├── fitness-social-platform.md  # 智能健身社交平台
+│   └── portfolio-showcase.md  # 个人技术作品展示网站
 └── SUMMARY.md              # 本文档
 ```
 
@@ -287,6 +293,30 @@ Oh-My-OpenCode 重新定义了AI辅助开发：
 ---
 
 **开始您的AI增强开发之旅！** 🚀
+
+## 📚 全栈开发学习计划
+
+如果您想通过 Oh-My-OpenCode 学习全栈开发，请参考以下资源：
+
+### 🎯 学习路径
+- **FULLSTACK_LEARNING_PLAN.md** - 完整的学习计划概览
+- **LEARNING_PHASES/** - 各阶段的详细指南
+- **PRACTICE_PROJECTS/** - 实践项目文档
+
+### 🚀 快速开始
+1. 阅读 **FULLSTACK_LEARNING_PLAN.md** 了解整体规划
+2. 按照 **LEARNING_PHASES/** 中的阶段逐步学习
+3. 完成 **PRACTICE_PROJECTS/** 中的实践项目
+
+### 📅 预计学习周期
+- **Phase 1:** 1-2周（基础搭建）
+- **Phase 2:** 2-3周（混合项目实践）
+- **Phase 3:** 3-4周（全栈项目实战）
+- **Phase 4:** 2-3周（高级技能和优化）
+
+**总计：** 10-12周完成全栈开发学习
+
+---
 
 更多资源：
 - GitHub: https://github.com/code-yeongyu/oh-my-opencode
